@@ -1,3 +1,4 @@
 EncodeFile.p
 .venv1
+.env
 serviceAccountKey.json
