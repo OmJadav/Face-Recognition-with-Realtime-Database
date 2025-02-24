@@ -9,8 +9,8 @@ ref=db.reference('Students')
 data={
     "321654":
         {
-            "name":"Mukesh Ambani",
-            "branch":"MBA",
+            "name":"Mark Zuckerberg",
+            "branch":"CSE",
             "roll":312654,
             "batch":2021,
             "total_attendance":10,
